@@ -8,6 +8,7 @@ namespace Soenneker.Quark.Enums.Scales;
 [Intellenum<string>]
 public sealed partial class Scale
 {
+    public static readonly Scale S0 = new("0");
     public static readonly Scale S1 = new("1");
     public static readonly Scale S2 = new("2");
     public static readonly Scale S3 = new("3");
