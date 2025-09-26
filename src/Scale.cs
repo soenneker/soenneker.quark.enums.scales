@@ -1,6 +1,6 @@
 ﻿using Intellenum;
 
-namespace Soenneker.Quark.Enums.Scales;
+namespace Soenneker.Quark;
 
 /// <summary>
 /// A specification of scale in .NET enumeration form
